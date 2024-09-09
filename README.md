@@ -2,14 +2,11 @@
 
 ## Project Overview
 
-This repository contains two laboratory exercises from the Digital Signal Processing (DSP) course during the academic year 2021-2022. The labs focus on key concepts in signal processing, including spectral analysis, telephone tone detection, and perceptual audio coding using Python.
+This repository contains two laboratory exercises from the Digital Signal Processing (DSP) course during the academic year 2022-2023. The labs focus on key concepts in signal processing, including spectral analysis, telephone tone detection, and perceptual audio coding using Python.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
 - [Lab 1: Spectral Analysis and Telephone Tone Detection](#lab-1-spectral-analysis-and-telephone-tone-detection)
 - [Lab 2: Perceptual Audio Coding](#lab-2-perceptual-audio-coding)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [License](#license)
 
@@ -39,9 +36,6 @@ In this lab, the goal is to compress an audio signal based on human auditory per
 
 For more details, see [DSP22_Lab2_updated.pdf](./DSP22_Lab2_updated.pdf).
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-
+**
+Lab 1: Explore frequency resolution using DFT and detect telephone tones.
+Lab 2: Compress audio using perceptual models based on human hearing.
