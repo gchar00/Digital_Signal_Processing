@@ -8,7 +8,6 @@ This repository contains two laboratory exercises from the Digital Signal Proces
 - [Lab 1: Spectral Analysis and Telephone Tone Detection](#lab-1-spectral-analysis-and-telephone-tone-detection)
 - [Lab 2: Perceptual Audio Coding](#lab-2-perceptual-audio-coding)
 - [Features](#features)
-- [License](#license)
 
 ## Lab 1: Spectral Analysis and Telephone Tone Detection
 
@@ -36,6 +35,6 @@ In this lab, the goal is to compress an audio signal based on human auditory per
 
 For more details, see [DSP22_Lab2_updated.pdf](./DSP22_Lab2_updated.pdf).
 
-**
+## Features 
 Lab 1: Explore frequency resolution using DFT and detect telephone tones.
 Lab 2: Compress audio using perceptual models based on human hearing.
