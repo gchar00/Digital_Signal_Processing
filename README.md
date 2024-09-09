@@ -36,5 +36,5 @@ In this lab, the goal is to compress an audio signal based on human auditory per
 For more details, see [DSP22_Lab2_updated.pdf](./DSP22_Lab2_updated.pdf).
 
 ## Features 
-Lab 1: Explore frequency resolution using DFT and detect telephone tones.
-Lab 2: Compress audio using perceptual models based on human hearing.
+- Lab 1: Explore frequency resolution using DFT and detect telephone tones.
+- Lab 2: Compress audio using perceptual models based on human hearing.
