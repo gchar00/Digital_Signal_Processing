@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains two laboratory exercises from the Digital Signal Processing (DSP) course during the academic year 2022-2023. The labs focus on key concepts in signal processing, including spectral analysis, telephone tone detection, and perceptual audio coding using Python.
+This repository contains two laboratory exercises from the Digital Signal Processing (DSP) course. The labs focus on key concepts in signal processing, including spectral analysis, telephone tone detection, and perceptual audio coding using Python.
 
 ## Table of Contents
 - [Lab 1: Spectral Analysis and Telephone Tone Detection](#lab-1-spectral-analysis-and-telephone-tone-detection)
