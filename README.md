@@ -20,8 +20,6 @@ This lab introduces digital signal processing techniques using Python, focusing 
 2. **Telephone Tone Detection (DTMF):**  
    Develop a system to detect which telephone key was pressed based on dual-tone signals using the DFT.
 
-For more details, see [dsp22_Lab1_Final.pdf](./dsp22_Lab1_Final.pdf).
-
 ## Lab 2: Perceptual Audio Coding
 
 **Objective:**  
@@ -32,8 +30,6 @@ In this lab, the goal is to compress an audio signal based on human auditory per
    Implement a perceptual audio coding model that takes advantage of psychoacoustic phenomena to reduce the size of audio files while preserving sound quality.
 2. **Filterbank Analysis:**  
    Use filterbanks to analyze and reconstruct the signal, compressing the audio file and maintaining minimal perceptual loss.
-
-For more details, see [DSP22_Lab2_updated.pdf](./DSP22_Lab2_updated.pdf).
 
 ## Features 
 - Lab 1: Explore frequency resolution using DFT and detect telephone tones.
